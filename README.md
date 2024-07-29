@@ -9,7 +9,7 @@
 <!-- lxdm -->
 <!-- lxhotkey -->
 <!-- lxinput -->
-<!-- lxlauncher -->
+**lxlauncher** [0.2.6](releases/lxlauncher-0.2.6.tar.xz) released 2024-07-29 ([changes](https://github.com/lxde/lxlauncher/commits/0.2.6))<br/><sup>SHA-256: efeb15310ed649f965466f59d645a390c957591aa63156336e569cb0d94e7798</sup><br/>
 **lxmenu-data** [0.1.6](releases/lxmenu-data-0.1.6.tar.xz) released 2024-07-29 ([changes](https://github.com/lxde/lxmenu-data/commits/0.1.6))<br/><sup>SHA-256: 4c1d284120eda77b4e030c434adcf02fc0ad0c9af860e4a3e35e5e5abcf08da0</sup><br/>
 <!-- lxmusic -->
 <!-- lxpanel -->
