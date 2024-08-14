@@ -15,7 +15,7 @@
 <!-- lxpanel -->
 <!-- lxrandr -->
 <!-- lxsession -->
-<!-- lxtask -->
+**lxtask** [0.1.11](releases/lxtask-0.1.11.tar.xz) released 2024-08-14 ([changes](https://github.com/lxde/lxtask/commits/0.1.11))<br/><sup>SHA-256: b628171b805a99d67807a3c1d6221b0f041e74d86575b024e06faec10538516c</sup><br/>
 <!-- lxterminal -->
 <!-- menu-cache -->
 <!-- pcmanfm -->
