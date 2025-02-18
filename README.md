@@ -1,7 +1,7 @@
 ## Latest LXDE releases
 
 **gpicview** [0.2.6](releases/gpicview-0.2.6.tar.xz) released 2024-07-15 ([changes](https://github.com/lxde/gpicview/commits/0.2.6))<br/><sup>SHA-256: 0ba6bf93b8ba164a4b370ddc1f2c6b8cb44af7cb4675e6930998b324d910267a</sup><br/>
-<!-- libfm -->
+**libfm** [1.4.0](releases/libfm-1.4.0.tar.xz) released 2025-02-18 ([changes](https://github.com/lxde/libfm/commits/1.4.0))<br/><sup>SHA-256: 8e0c9cb09b3a7aa7f84cbb121c32f6c62b04d0e7e6a4945b394531980b421e03</sup><br/>
 <!-- lxappearance -->
 <!-- lxappearance-obconf -->
 <!-- lxde-common -->
