@@ -18,7 +18,7 @@
 **lxtask** [0.1.11](releases/lxtask-0.1.11.tar.xz) released 2024-08-14 ([changes](https://github.com/lxde/lxtask/commits/0.1.11))<br/><sup>SHA-256: b628171b805a99d67807a3c1d6221b0f041e74d86575b024e06faec10538516c</sup><br/>
 <!-- lxterminal -->
 **menu-cache** [1.1.1](releases/menu-cache-1.1.1.tar.xz) released 2025-02-14 ([changes](https://github.com/lxde/menu-cache/commits/1.1.1))<br/><sup>SHA-256: 8232399b45b0b99bd480ec6df8fb9a5b8e034cc31c90b375916b372631f4531a</sup><br/>
-<!-- pcmanfm -->
+**pcmanfm** [1.4.0](releases/pcmanfm-1.4.0.tar.xz) released 2025-03-04 ([changes](https://github.com/lxde/pcmanfm/commits/1.4.0))<br/><sup>SHA-256: 55066ccd32039ab2d3f5a9054c34b292451663b0de8d9ef766430ac483624ade</sup><br/>
 
 
 ## Older LXDE releases
