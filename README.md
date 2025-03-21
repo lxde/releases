@@ -4,7 +4,7 @@
 **libfm** [1.4.0](releases/libfm-1.4.0.tar.xz) released 2025-02-18 ([changes](https://github.com/lxde/libfm/commits/1.4.0))<br/><sup>SHA-256: 8e0c9cb09b3a7aa7f84cbb121c32f6c62b04d0e7e6a4945b394531980b421e03</sup><br/>
 <!-- lxappearance -->
 <!-- lxappearance-obconf -->
-<!-- lxde-common -->
+**lxde-common** [0.99.3](releases/lxde-common-0.99.3.tar.xz) released 2025-03-21 ([changes](https://github.com/lxde/lxde-common/commits/0.99.3))<br/><sup>SHA-256: 021bac866122325401e57c0ed5b55e5796f1a7e5d432958c662bd65dae5bbdb0</sup><br/>
 <!-- lxde-icon-theme -->
 <!-- lxdm -->
 **lxhotkey** [0.1.2](releases/lxhotkey-0.1.2.tar.xz) released 2025-03-07 ([changes](https://github.com/lxde/lxhotkey/commits/0.1.2))<br/><sup>SHA-256: 1829fecca5cdae3559acc12f6555790ab89012737d0495eb15769297e15a7dae</sup><br/>
