@@ -2,7 +2,7 @@
 
 **gpicview** [0.2.6](releases/gpicview-0.2.6.tar.xz) released 2024-07-15 ([changes](https://github.com/lxde/gpicview/commits/0.2.6))<br/><sup>SHA-256: 0ba6bf93b8ba164a4b370ddc1f2c6b8cb44af7cb4675e6930998b324d910267a</sup><br/>
 **libfm** [1.4.0](releases/libfm-1.4.0.tar.xz) released 2025-02-18 ([changes](https://github.com/lxde/libfm/commits/1.4.0))<br/><sup>SHA-256: 8e0c9cb09b3a7aa7f84cbb121c32f6c62b04d0e7e6a4945b394531980b421e03</sup><br/>
-<!-- lxappearance -->
+**lxappearance** [0.6.4](releases/lxappearance-0.6.4.tar.xz) released 2025-03-24 ([changes](https://github.com/lxde/lxappearance/commits/0.6.4))<br/><sup>SHA-256: 9fdc4deb841d8cf11b532ffff38634fd7e474fe1639b5f76079ea550b6ea838d</sup><br/>
 <!-- lxappearance-obconf -->
 **lxde-common** [0.99.3](releases/lxde-common-0.99.3.tar.xz) released 2025-03-21 ([changes](https://github.com/lxde/lxde-common/commits/0.99.3))<br/><sup>SHA-256: 021bac866122325401e57c0ed5b55e5796f1a7e5d432958c662bd65dae5bbdb0</sup><br/>
 **lxde-icon-theme** [0.5.2](releases/lxde-icon-theme-0.5.2.tar.xz) released 2025-03-22 ([changes](https://github.com/lxde/lxde-icon-theme/commits/0.5.2))<br/><sup>SHA-256: 88f4b2b0dbb454483be631b605184c9bc26b46653ff749e8e6b90ec24146f52d</sup><br/>
