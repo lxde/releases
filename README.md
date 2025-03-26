@@ -13,7 +13,7 @@
 **lxmenu-data** [0.1.6](releases/lxmenu-data-0.1.6.tar.xz) released 2024-07-29 ([changes](https://github.com/lxde/lxmenu-data/commits/0.1.6))<br/><sup>SHA-256: 4c1d284120eda77b4e030c434adcf02fc0ad0c9af860e4a3e35e5e5abcf08da0</sup><br/>
 **lxmusic** [0.4.8](releases/lxmusic-0.4.8.tar.xz) released 2025-03-16 ([changes](https://github.com/lxde/lxmusic/commits/0.4.8))<br/><sup>SHA-256: 0b43dd6861674d03630b439005bfd4f2581691cce8afbd6117a4841accbe7c2c</sup><br/>
 <!-- lxpanel -->
-<!-- lxrandr -->
+**lxrandr** [0.3.3](releases/lxrandr-0.3.3.tar.xz) released 2025-03-26 ([changes](https://github.com/lxde/lxrandr/commits/0.3.3))<br/><sup>SHA-256: 3f08ce48ec5bb10539b64d89ede14d802b0957bbaa68d3f36d62056263715d8a</sup><br/>
 <!-- lxsession -->
 **lxtask** [0.1.12](releases/lxtask-0.1.12.tar.xz) released 2025-03-25 ([changes](https://github.com/lxde/lxtask/commits/0.1.12))<br/><sup>SHA-256: 099b98ab661ac83019ff9dfd87f0098b008e11b1f97113c0be39d883e1a30102</sup><br/>
 <!-- lxterminal -->
