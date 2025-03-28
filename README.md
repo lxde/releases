@@ -9,7 +9,7 @@
 <!-- lxdm -->
 **lxhotkey** [0.1.2](releases/lxhotkey-0.1.2.tar.xz) released 2025-03-07 ([changes](https://github.com/lxde/lxhotkey/commits/0.1.2))<br/><sup>SHA-256: 1829fecca5cdae3559acc12f6555790ab89012737d0495eb15769297e15a7dae</sup><br/>
 **lxinput** [0.3.6](releases/lxinput-0.3.6.tar.xz) released 2025-03-12 ([changes](https://github.com/lxde/lxinput/commits/0.3.6))<br/><sup>SHA-256: f7784978f628e7894424e810e3bf55c1efebd6dba795205c65cc742ff7191c5c</sup><br/>
-**lxlauncher** [0.2.7](releases/lxlauncher-0.2.7.tar.xz) released 2025-03-10 ([changes](https://github.com/lxde/lxlauncher/commits/0.2.7))<br/><sup>SHA-256: 97b1b43e17dc59596f57ceec0112db00b386a9d5ede4c81e5afc23aae1ab1932</sup><br/>
+**lxlauncher** [0.2.8](releases/lxlauncher-0.2.8.tar.xz) released 2025-03-28 ([changes](https://github.com/lxde/lxlauncher/commits/0.2.8))<br/><sup>SHA-256: dba330044b45875d4deb5c56d0b9941b305f73b4d41c39c92f09a54136a639c4</sup><br/>
 **lxmenu-data** [0.1.6](releases/lxmenu-data-0.1.6.tar.xz) released 2024-07-29 ([changes](https://github.com/lxde/lxmenu-data/commits/0.1.6))<br/><sup>SHA-256: 4c1d284120eda77b4e030c434adcf02fc0ad0c9af860e4a3e35e5e5abcf08da0</sup><br/>
 **lxmusic** [0.4.8](releases/lxmusic-0.4.8.tar.xz) released 2025-03-16 ([changes](https://github.com/lxde/lxmusic/commits/0.4.8))<br/><sup>SHA-256: 0b43dd6861674d03630b439005bfd4f2581691cce8afbd6117a4841accbe7c2c</sup><br/>
 <!-- lxpanel -->
