@@ -16,7 +16,7 @@
 **lxrandr** [0.3.3](releases/lxrandr-0.3.3.tar.xz) released 2025-03-26 ([changes](https://github.com/lxde/lxrandr/commits/0.3.3))<br/><sup>SHA-256: 3f08ce48ec5bb10539b64d89ede14d802b0957bbaa68d3f36d62056263715d8a</sup><br/>
 <!-- lxsession -->
 **lxtask** [0.1.12](releases/lxtask-0.1.12.tar.xz) released 2025-03-25 ([changes](https://github.com/lxde/lxtask/commits/0.1.12))<br/><sup>SHA-256: 099b98ab661ac83019ff9dfd87f0098b008e11b1f97113c0be39d883e1a30102</sup><br/>
-<!-- lxterminal -->
+**lxterminal** [0.4.1](releases/lxterminal-0.4.1.tar.xz) released 2025-03-31 ([changes](https://github.com/lxde/lxterminal/commits/0.4.1))<br/><sup>SHA-256: 851a0bc59e3e1a0974baf0cf0d877dba8b3e1d400418121fd6e715607b56ad31</sup><br/>
 **menu-cache** [1.1.1](releases/menu-cache-1.1.1.tar.xz) released 2025-02-14 ([changes](https://github.com/lxde/menu-cache/commits/1.1.1))<br/><sup>SHA-256: 8232399b45b0b99bd480ec6df8fb9a5b8e034cc31c90b375916b372631f4531a</sup><br/>
 **pcmanfm** [1.4.0](releases/pcmanfm-1.4.0.tar.xz) released 2025-03-04 ([changes](https://github.com/lxde/pcmanfm/commits/1.4.0))<br/><sup>SHA-256: 55066ccd32039ab2d3f5a9054c34b292451663b0de8d9ef766430ac483624ade</sup><br/>
 
