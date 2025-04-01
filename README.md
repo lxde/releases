@@ -14,7 +14,7 @@
 **lxmusic** [0.4.8](releases/lxmusic-0.4.8.tar.xz) released 2025-03-16 ([changes](https://github.com/lxde/lxmusic/commits/0.4.8))<br/><sup>SHA-256: 0b43dd6861674d03630b439005bfd4f2581691cce8afbd6117a4841accbe7c2c</sup><br/>
 <!-- lxpanel -->
 **lxrandr** [0.3.3](releases/lxrandr-0.3.3.tar.xz) released 2025-03-26 ([changes](https://github.com/lxde/lxrandr/commits/0.3.3))<br/><sup>SHA-256: 3f08ce48ec5bb10539b64d89ede14d802b0957bbaa68d3f36d62056263715d8a</sup><br/>
-<!-- lxsession -->
+**lxsession** [0.5.6](releases/lxsession-0.5.6.tar.xz) released 2025-04-01 ([changes](https://github.com/lxde/lxsession/commits/0.5.6))<br/><sup>SHA-256: 884a33824c86c8eddd77a86237b337aab9d3a08f61da7b88faa47ed05e02d1df</sup><br/>
 **lxtask** [0.1.12](releases/lxtask-0.1.12.tar.xz) released 2025-03-25 ([changes](https://github.com/lxde/lxtask/commits/0.1.12))<br/><sup>SHA-256: 099b98ab661ac83019ff9dfd87f0098b008e11b1f97113c0be39d883e1a30102</sup><br/>
 **lxterminal** [0.4.1](releases/lxterminal-0.4.1.tar.xz) released 2025-03-31 ([changes](https://github.com/lxde/lxterminal/commits/0.4.1))<br/><sup>SHA-256: 851a0bc59e3e1a0974baf0cf0d877dba8b3e1d400418121fd6e715607b56ad31</sup><br/>
 **menu-cache** [1.1.1](releases/menu-cache-1.1.1.tar.xz) released 2025-02-14 ([changes](https://github.com/lxde/menu-cache/commits/1.1.1))<br/><sup>SHA-256: 8232399b45b0b99bd480ec6df8fb9a5b8e034cc31c90b375916b372631f4531a</sup><br/>
