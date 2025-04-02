@@ -6,7 +6,7 @@
 **lxappearance-obconf** [0.2.4](releases/lxappearance-obconf-0.2.4.tar.xz) released 2025-03-24 ([changes](https://github.com/lxde/lxappearance-obconf/commits/0.2.4))<br/><sup>SHA-256: 8b62980d3d2ccf06802f65175568baa94cfdfa19febcc2c7f702d2a96b8aa19d</sup><br/>
 **lxde-common** [0.99.3](releases/lxde-common-0.99.3.tar.xz) released 2025-03-21 ([changes](https://github.com/lxde/lxde-common/commits/0.99.3))<br/><sup>SHA-256: 021bac866122325401e57c0ed5b55e5796f1a7e5d432958c662bd65dae5bbdb0</sup><br/>
 **lxde-icon-theme** [0.5.2](releases/lxde-icon-theme-0.5.2.tar.xz) released 2025-03-22 ([changes](https://github.com/lxde/lxde-icon-theme/commits/0.5.2))<br/><sup>SHA-256: 88f4b2b0dbb454483be631b605184c9bc26b46653ff749e8e6b90ec24146f52d</sup><br/>
-<!-- lxdm -->
+**lxdm** 0.5.4<br/><sup>not yet released</sup><br/>
 **lxhotkey** [0.1.2](releases/lxhotkey-0.1.2.tar.xz) released 2025-03-07 ([changes](https://github.com/lxde/lxhotkey/commits/0.1.2))<br/><sup>SHA-256: 1829fecca5cdae3559acc12f6555790ab89012737d0495eb15769297e15a7dae</sup><br/>
 **lxinput** [0.3.6](releases/lxinput-0.3.6.tar.xz) released 2025-03-12 ([changes](https://github.com/lxde/lxinput/commits/0.3.6))<br/><sup>SHA-256: f7784978f628e7894424e810e3bf55c1efebd6dba795205c65cc742ff7191c5c</sup><br/>
 **lxlauncher** [0.2.8](releases/lxlauncher-0.2.8.tar.xz) released 2025-03-28 ([changes](https://github.com/lxde/lxlauncher/commits/0.2.8))<br/><sup>SHA-256: dba330044b45875d4deb5c56d0b9941b305f73b4d41c39c92f09a54136a639c4</sup><br/>
