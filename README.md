@@ -1,7 +1,7 @@
 ## Latest LXDE releases
 
 **gpicview** [0.3.1](releases/gpicview-0.3.1.tar.xz) released 2025-03-27 ([changes](https://github.com/lxde/gpicview/commits/0.3.1))<br/><sup>SHA-256: 0bc856e803cb2e81757c86e7892117fa573efcce903c726b23f167a5feb7ea4c</sup><br/>
-**libfm** [1.4.0](releases/libfm-1.4.0.tar.xz) released 2025-02-18 ([changes](https://github.com/lxde/libfm/commits/1.4.0))<br/><sup>SHA-256: 8e0c9cb09b3a7aa7f84cbb121c32f6c62b04d0e7e6a4945b394531980b421e03</sup><br/>
+**libfm** [1.4.1](releases/libfm-1.4.1.tar.xz) released 2025-12-14 ([changes](https://github.com/lxde/libfm/commits/1.4.1))<br/><sup>SHA-256: 5caa820443d558974648583e37b4d956ae67a6e3df23493f99c2d0e26a11c665</sup><br/>
 **lxappearance** [0.6.4](releases/lxappearance-0.6.4.tar.xz) released 2025-03-24 ([changes](https://github.com/lxde/lxappearance/commits/0.6.4))<br/><sup>SHA-256: 9fdc4deb841d8cf11b532ffff38634fd7e474fe1639b5f76079ea550b6ea838d</sup><br/>
 **lxappearance-obconf** [0.2.4](releases/lxappearance-obconf-0.2.4.tar.xz) released 2025-03-24 ([changes](https://github.com/lxde/lxappearance-obconf/commits/0.2.4))<br/><sup>SHA-256: 8b62980d3d2ccf06802f65175568baa94cfdfa19febcc2c7f702d2a96b8aa19d</sup><br/>
 **lxde-common** [0.99.3](releases/lxde-common-0.99.3.tar.xz) released 2025-03-21 ([changes](https://github.com/lxde/lxde-common/commits/0.99.3))<br/><sup>SHA-256: 021bac866122325401e57c0ed5b55e5796f1a7e5d432958c662bd65dae5bbdb0</sup><br/>
