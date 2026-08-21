@@ -4,7 +4,7 @@
 **libfm** [1.4.1](releases/libfm-1.4.1.tar.xz) released 2025-12-14 ([changes](https://github.com/lxde/libfm/commits/1.4.1))<br/><sup>SHA-256: 5caa820443d558974648583e37b4d956ae67a6e3df23493f99c2d0e26a11c665</sup><br/>
 **lxappearance** [0.6.4](releases/lxappearance-0.6.4.tar.xz) released 2025-03-24 ([changes](https://github.com/lxde/lxappearance/commits/0.6.4))<br/><sup>SHA-256: 9fdc4deb841d8cf11b532ffff38634fd7e474fe1639b5f76079ea550b6ea838d</sup><br/>
 **lxappearance-obconf** [0.2.4](releases/lxappearance-obconf-0.2.4.tar.xz) released 2025-03-24 ([changes](https://github.com/lxde/lxappearance-obconf/commits/0.2.4))<br/><sup>SHA-256: 8b62980d3d2ccf06802f65175568baa94cfdfa19febcc2c7f702d2a96b8aa19d</sup><br/>
-**lxde-common** [0.99.3](releases/lxde-common-0.99.3.tar.xz) released 2025-03-21 ([changes](https://github.com/lxde/lxde-common/commits/0.99.3))<br/><sup>SHA-256: 021bac866122325401e57c0ed5b55e5796f1a7e5d432958c662bd65dae5bbdb0</sup><br/>
+**lxde-common** [0.99.4](releases/lxde-common-0.99.4.tar.xz) released 2026-08-21 ([changes](https://github.com/lxde/lxde-common/commits/0.99.4))<br/><sup>SHA-256: f9cdbec993a676fe9aa1cc84f4732b1cc9bd30a7f616567c901904d77fcd0d0f</sup><br/>
 **lxde-icon-theme** [0.5.2](releases/lxde-icon-theme-0.5.2.tar.xz) released 2025-03-22 ([changes](https://github.com/lxde/lxde-icon-theme/commits/0.5.2))<br/><sup>SHA-256: 88f4b2b0dbb454483be631b605184c9bc26b46653ff749e8e6b90ec24146f52d</sup><br/>
 **lxdm** 0.5.4<br/><sup>not yet released</sup><br/>
 **lxhotkey** [0.1.2](releases/lxhotkey-0.1.2.tar.xz) released 2025-03-07 ([changes](https://github.com/lxde/lxhotkey/commits/0.1.2))<br/><sup>SHA-256: 1829fecca5cdae3559acc12f6555790ab89012737d0495eb15769297e15a7dae</sup><br/>
